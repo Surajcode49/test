@@ -1,0 +1,7 @@
+
+{{#user}}
+Name: SURAJ PRASAD
+Skills: HTML, CSS, JS, Node.js,Express.js, react.js,mongo-db,Sql,Data structure and algorithm.  
+Email: sp2449@cse.jgec.ac.in
+contact:9641120205
+{{/user}}
